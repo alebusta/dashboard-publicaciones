@@ -23,7 +23,7 @@ st.write(
     """En esta sección se presenta cuales son los temas que abordan las publicaciones de CEPAL, a partir de los metadatos (tópicos CEPAL)"""
 )
 
-excel_file = 'divisiones_2015-2024_04.xlsx' #Nombre archivo a importar  'xlsx' hace referencia a excel
+excel_file = 'divisiones_2015-2024_06_06.xlsx' #Nombre archivo a importar  'xlsx' hace referencia a excel
 
 sheet_name = 'Sheet1' #la hoja de excel que voy a importar
 

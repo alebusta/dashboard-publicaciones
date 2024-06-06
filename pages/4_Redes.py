@@ -21,7 +21,7 @@ st.write(
     """Redes temáticas y organizacionales"""
 )
 
-excel_file = 'divisiones_2015-2024_04.xlsx' #Nombre archivo a importar  'xlsx' hace referencia a excel
+excel_file = 'divisiones_2015-2024_06_06.xlsx' #Nombre archivo a importar  'xlsx' hace referencia a excel
 
 sheet_name = 'Sheet1' #la hoja de excel que voy a importar
 
