@@ -1,3 +1,12 @@
+"""
+    File: Publicaciones.py
+    Author: Alejandro Bustamante
+    Email: alejandro.bustamante@un.org
+    Date: 30/04/2024
+    Description: Script para visualización de producciones de publicacones CEPAL.
+"""
+
+
 import pandas as pd
 import streamlit as st
 import design
